@@ -1,16 +1,30 @@
 +++
-title = "1 Page in 3rd section"
+title = "Curriculum"
 chapter = false
 weight = 1
 +++
 
-{{% notice warning %}}
-Nice warning 
-{{% /notice %}}
+## Use Case
 
-{{% notice note %}}
-Nice note
-{{% /notice %}}
+Amazon Connect enables a chat channel that uses the same contact flows as the voice channel. In a truly omni-channel design, the only distinction between a chat interaction and a voice interaction is the field "channel" in the data.
 
-H1 Lorem Ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+To deploy Chat for your customers, you not only need to enable it in the routing profiles and in the contact flows, you also need to enable the ingress of the chat conversation, which is usually your customer's webpage.
+
+This training module uses a CloudFormation template to facilitate the chat widget.
+
+
+## Chat Code (GitHub)
+[Amazon Connect Chat UI Examples](https://github.com/amazon-connect/amazon-connect-chat-ui-examples)
+[Amazon Connect Chat Javascript Library](https://github.com/amazon-connect/amazon-connect-chatjs)
+
+
+## Integrated Services
++ [Amazon Connect](https://aws.amazon.com/connect/)
++ [CloudFormation](https://aws.amazon.com/cloudformation/)
++ [DynamoDB](https://aws.amazon.com/dynamodb/)
++ [Lambda](https://aws.amazon.com/lambda/)
++ [CloudWatch](https://aws.amazon.com/cloudwatch/)
+
+
+## Training
+[Deploying Amazon Connect Chat](https://psa-workshop-chat.s3-us-west-2.amazonaws.com/index.html)

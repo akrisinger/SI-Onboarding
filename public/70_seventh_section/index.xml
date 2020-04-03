@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Build a Custom CCP on Amazon Connect SI Onboarding Workshop</title>
+    <link>/70_seventh_section.html</link>
+    <description>Recent content in Build a Custom CCP on Amazon Connect SI Onboarding Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/70_seventh_section/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/70_seventh_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/70_seventh_section/1_page.html</guid>
+      <description>Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.
+Integrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/70_seventh_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/70_seventh_section/2_page.html</guid>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+    </item>
+    
+  </channel>
+</rss>

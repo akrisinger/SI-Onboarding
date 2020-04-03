@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deploying Amazon Connect Chat on Amazon Connect SI Onboarding Workshop</title>
+    <link>/30_third_section.html</link>
+    <description>Recent content in Deploying Amazon Connect Chat on Amazon Connect SI Onboarding Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/30_third_section/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/30_third_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/30_third_section/1_page.html</guid>
+      <description>Use Case Amazon Connect enables a chat channel that uses the same contact flows as the voice channel. In a truly omni-channel design, the only distinction between a chat interaction and a voice interaction is the field &amp;ldquo;channel&amp;rdquo; in the data.
+To deploy Chat for your customers, you not only need to enable it in the routing profiles and in the contact flows, you also need to enable the ingress of the chat conversation, which is usually your customer&amp;rsquo;s webpage.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/30_third_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/30_third_section/2_page.html</guid>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+    </item>
+    
+  </channel>
+</rss>

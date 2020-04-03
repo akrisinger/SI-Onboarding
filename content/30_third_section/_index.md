@@ -1,9 +1,9 @@
 +++
-title = "Third"
+title = "Deploying Amazon Connect Chat"
 chapter = true
 weight = 30
 +++
 
-# Third Section
+### Deploying Amazon Connect Chat
 
-{{% children showhidden="false" %}}
+{{% children showhidden="true" %}}

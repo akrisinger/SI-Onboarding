@@ -1,57 +1,27 @@
 +++
-title = "1 Page in 1st section"
+title = "A Primer on Amazon Connect"
 chapter = false
 weight = 1
 +++
 
 {{% notice note %}}
-A notice disclaimer
-{{% /notice %}}
-
-{{% notice info %}}
-An information disclaimer
-{{% /notice %}}
-
-{{% notice tip %}}
-A tip disclaimer
-{{% /notice %}}
-
-{{% notice warning %}}
-A warning disclaimer
+Access for this course requires logging into the [APN Partner Central](https://aws.amazon.com/partners/apn-partner-central/). The completion of this course will be associated with your APN credentials.
 {{% /notice %}}
 
 
-# H1 Lorem Ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-> Sample Code
-```Bash
-$ echo .bashrc
-$ cls
-```
+## Course Objectives
++ Configure a cloud-based contact center using Amazon Connect.
++ Identify architectural components of the caller version
++ Launch an Amazon Connect instance.
++ Design an interactive voice response (IVR) system using the graphical editor within Amazon Connect.
++ Integrate Amazon Connect with different AWS services including AWS IAM, AWS Lambda, Amazon DynamoDB, and Amazon Lex.
++ Define historical and real-time metrics produced by Amazon Connect
 
-{{<mermaid align="left">}}
-graph LR;
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-{{< /mermaid >}}
+## Recommended Prerequisites
++ AWS Business Professional, AWS Technical Professional, AWS Cloud Economics
++ Familiarity with contact center requirements and technologies
++ Familiarity with cloud computing concepts
 
-{{%expand "Can I expand?" %}}Yes !.{{% /expand%}}
 
-{{%expand%}}
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{{% /expand%}}
-
-{{% button href="https://aws.amazon.com" %}}Get AWS{{% /button %}}
-{{% button href="https://aws.amazon.com" icon="fas fa-download" %}}Get AWS with icon{{% /button %}}
-{{% button href="https://aws.amazon.com" icon="fas fa-download" icon-position="right" %}}Get AWS with icon right{{% /button %}}
-
-### Image
-![Arrows](images/Deck_Arrows2.png)
+### Click here for module:  [APN Navigate for Contact Center](https://aws.amazon.com/partners/navigate/contactcenter/)

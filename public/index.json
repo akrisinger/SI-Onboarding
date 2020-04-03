@@ -1,0 +1,190 @@
+[
+{
+	"uri": "/10_first_section/1_page.html",
+	"title": "A Primer on Amazon Connect",
+	"tags": [],
+	"description": "",
+	"content": " Access for this course requires logging into the APN Partner Central. The completion of this course will be associated with your APN credentials.\n Course Objectives  Configure a cloud-based contact center using Amazon Connect. Identify architectural components of the caller version Launch an Amazon Connect instance. Design an interactive voice response (IVR) system using the graphical editor within Amazon Connect. Integrate Amazon Connect with different AWS services including AWS IAM, AWS Lambda, Amazon DynamoDB, and Amazon Lex. Define historical and real-time metrics produced by Amazon Connect  Recommended Prerequisites  AWS Business Professional, AWS Technical Professional, AWS Cloud Economics Familiarity with contact center requirements and technologies Familiarity with cloud computing concepts  Click here for module: APN Navigate for Contact Center "
+},
+{
+	"uri": "/20_second_section/1_page.html",
+	"title": "Curriculum",
+	"tags": [],
+	"description": "",
+	"content": "Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.\nIntegrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging\n"
+},
+{
+	"uri": "/30_third_section/1_page.html",
+	"title": "Curriculum",
+	"tags": [],
+	"description": "",
+	"content": "Use Case Amazon Connect enables a chat channel that uses the same contact flows as the voice channel. In a truly omni-channel design, the only distinction between a chat interaction and a voice interaction is the field \u0026ldquo;channel\u0026rdquo; in the data.\nTo deploy Chat for your customers, you not only need to enable it in the routing profiles and in the contact flows, you also need to enable the ingress of the chat conversation, which is usually your customer\u0026rsquo;s webpage.\nThis training module uses a CloudFormation template to facilitate the chat widget.\nChat Code (GitHub) Amazon Connect Chat UI Examples Amazon Connect Chat Javascript Library\nIntegrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Deploying Amazon Connect Chat\n"
+},
+{
+	"uri": "/40_fourth_section/1_page.html",
+	"title": "Curriculum",
+	"tags": [],
+	"description": "",
+	"content": "Use Case Contact Center data is a critical requirement for our customers. In legacy solutions, customers were constrained to whatever reporting platform came with the ACD. Amazon Connect shifts that paradigm. The data that is generated from Amazon Connect belongs to the customer to do whatever they want with.\nAmazon Connect delivers data in a myriad of ways. Customers can access both historical and realtime data through the Connect UI. That data can be exported, scheduled, etc. Data can also be streamed and delivered to any destination that the customer desires, such as a data visualization tool or a data lake.\nStreaming Data Model Source =\u0026gt; Stream Ingestion =\u0026gt; Storage =\u0026gt; Stream Processing =\u0026gt; Destination\nIntegrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Advanced Reporting\n"
+},
+{
+	"uri": "/50_fifth_section/1_page.html",
+	"title": "Curriculum",
+	"tags": [],
+	"description": "",
+	"content": "Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.\nIntegrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging\n"
+},
+{
+	"uri": "/60_sixth_section/1_page.html",
+	"title": "Curriculum",
+	"tags": [],
+	"description": "",
+	"content": "Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.\nIntegrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging\n"
+},
+{
+	"uri": "/70_seventh_section/1_page.html",
+	"title": "Curriculum",
+	"tags": [],
+	"description": "",
+	"content": "Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.\nIntegrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging\n"
+},
+{
+	"uri": "/80_eighth_section/1_page.html",
+	"title": "Curriculum",
+	"tags": [],
+	"description": "",
+	"content": "Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.\nIntegrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging\n"
+},
+{
+	"uri": "/20_second_section/2_page.html",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": "Documentation  Connect Admin Guide Connect API Reference SDK \u0026amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  "
+},
+{
+	"uri": "/30_third_section/2_page.html",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": "Documentation  Connect Admin Guide Connect API Reference SDK \u0026amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  "
+},
+{
+	"uri": "/40_fourth_section/2_page.html",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": "Documentation  Quick Start for Streaming Amazon Connect Data to Redshift Amazon Connect Metrics and Contact Trace Records Contact Trace Records Data Model Connect Admin Guide Connect API Reference  "
+},
+{
+	"uri": "/50_fifth_section/2_page.html",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": "Documentation  Connect Admin Guide Connect API Reference SDK \u0026amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  "
+},
+{
+	"uri": "/60_sixth_section/2_page.html",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": "Documentation  Connect Admin Guide Connect API Reference SDK \u0026amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  "
+},
+{
+	"uri": "/70_seventh_section/2_page.html",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": "Documentation  Connect Admin Guide Connect API Reference SDK \u0026amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  "
+},
+{
+	"uri": "/80_eighth_section/2_page.html",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": "Documentation  Connect Admin Guide Connect API Reference SDK \u0026amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  "
+},
+{
+	"uri": "/",
+	"title": "Welcome",
+	"tags": [],
+	"description": "",
+	"content": "Welcome! Thank you for your desire to learn more about Amazon Connect. The Amazon Connect Consulting Partner ecosystem is vital to the success of our service. We are excited to help you onboard with these advanced modules, that are based off of our in-person bootcamps.\nOne of the most important things to remember as you begin this journey is that Amazon Connect, like all AWS services, encourages our customers to become builders. When our Consulting Partners are engaged to deliver an Amazon Connect Contact Center, the responsibility to build falls on you! Amazon Connect functionality is only constrained by your ability to architect and deliver solutions using integrated AWS Services as well as Amazon Connect Technology integrations.\nTo that end, we encourage you to get your hands dirty. The best learning happens when we are faced with a problem and the tools to solve the problem on our own. With Amazon Connect, we don\u0026rsquo;t limit ourselves to what\u0026rsquo;s in the box; instead we explore the art of the possible.\nAgain, thank you for your willingness to learn. The Amazon Connect Partner SA team is here to facilitate your onboarding and we look forward to working with you on many future engagements!\n"
+},
+{
+	"uri": "/10_first_section/2_page.html",
+	"title": "Additional Resources for Integrated Services",
+	"tags": [],
+	"description": "",
+	"content": "AWS Lambda Foundations Amazon DynamoDB Service Primer "
+},
+{
+	"uri": "/10_first_section.html",
+	"title": "Getting Started",
+	"tags": [],
+	"description": "",
+	"content": "Overview The Consulting Partner ecosystem is vital to the success of Amazon Connect. Our customers rely on you to deliver innovative and cost-effective solutions that enable them to help their customers in the best way possible.\nAmazon Connect offers customers an innovative option to the traditional contact center technologies. Amazon Connect began as an internally-developed solution to support the Customer Service team at Amazon.com. With over 70,000 agents and a global presence, Amazon needed a solution that could scale, offer\n A Primer on Amazon Connect   Additional Resources for Integrated Services   "
+},
+{
+	"uri": "/20_second_section.html",
+	"title": "Emergency &amp; Holiday Routing with Dynamic Messaging",
+	"tags": [],
+	"description": "",
+	"content": "Emergency \u0026amp; Holiday Routing with Dynamic Messaging  Curriculum   Resources   "
+},
+{
+	"uri": "/30_third_section.html",
+	"title": "Deploying Amazon Connect Chat",
+	"tags": [],
+	"description": "",
+	"content": "Deploying Amazon Connect Chat  Curriculum   Resources   "
+},
+{
+	"uri": "/40_fourth_section.html",
+	"title": "Advanced Reporting",
+	"tags": [],
+	"description": "",
+	"content": "Advanced Reporting  Curriculum   Resources   "
+},
+{
+	"uri": "/50_fifth_section.html",
+	"title": "Build a Better Bot",
+	"tags": [],
+	"description": "",
+	"content": "Build a Better Bot  Curriculum   Resources   "
+},
+{
+	"uri": "/60_sixth_section.html",
+	"title": "Troubleshooting with CloudWatch",
+	"tags": [],
+	"description": "",
+	"content": "Emergency \u0026amp; Holiday Routing with Dynamic Messaging  Curriculum   Resources   "
+},
+{
+	"uri": "/70_seventh_section.html",
+	"title": "Build a Custom CCP",
+	"tags": [],
+	"description": "",
+	"content": "Build a Custom CCP  Curriculum   Resources   "
+},
+{
+	"uri": "/80_eighth_section.html",
+	"title": "Amazon Connect Best Practices",
+	"tags": [],
+	"description": "",
+	"content": "Emergency \u0026amp; Holiday Routing with Dynamic Messaging  Curriculum   Resources   "
+},
+{
+	"uri": "/categories.html",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags.html",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Amazon Connect SI Onboarding Workshop</title>
+    <link>/</link>
+    <description>Recent content in Welcome on Amazon Connect SI Onboarding Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Primer on Amazon Connect</title>
+      <link>/10_first_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10_first_section/1_page.html</guid>
+      <description>Access for this course requires logging into the APN Partner Central. The completion of this course will be associated with your APN credentials.
+ Course Objectives  Configure a cloud-based contact center using Amazon Connect. Identify architectural components of the caller version Launch an Amazon Connect instance. Design an interactive voice response (IVR) system using the graphical editor within Amazon Connect. Integrate Amazon Connect with different AWS services including AWS IAM, AWS Lambda, Amazon DynamoDB, and Amazon Lex.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/20_second_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/20_second_section/1_page.html</guid>
+      <description>Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.
+Integrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/30_third_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/30_third_section/1_page.html</guid>
+      <description>Use Case Amazon Connect enables a chat channel that uses the same contact flows as the voice channel. In a truly omni-channel design, the only distinction between a chat interaction and a voice interaction is the field &amp;ldquo;channel&amp;rdquo; in the data.
+To deploy Chat for your customers, you not only need to enable it in the routing profiles and in the contact flows, you also need to enable the ingress of the chat conversation, which is usually your customer&amp;rsquo;s webpage.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/40_fourth_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/40_fourth_section/1_page.html</guid>
+      <description>Use Case Contact Center data is a critical requirement for our customers. In legacy solutions, customers were constrained to whatever reporting platform came with the ACD. Amazon Connect shifts that paradigm. The data that is generated from Amazon Connect belongs to the customer to do whatever they want with.
+Amazon Connect delivers data in a myriad of ways. Customers can access both historical and realtime data through the Connect UI. That data can be exported, scheduled, etc.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/50_fifth_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/50_fifth_section/1_page.html</guid>
+      <description>Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.
+Integrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/60_sixth_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/60_sixth_section/1_page.html</guid>
+      <description>Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.
+Integrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/70_seventh_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/70_seventh_section/1_page.html</guid>
+      <description>Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.
+Integrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>/80_eighth_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/80_eighth_section/1_page.html</guid>
+      <description>Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.
+Integrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/20_second_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/20_second_section/2_page.html</guid>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/30_third_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/30_third_section/2_page.html</guid>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/40_fourth_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/40_fourth_section/2_page.html</guid>
+      <description>Documentation  Quick Start for Streaming Amazon Connect Data to Redshift Amazon Connect Metrics and Contact Trace Records Contact Trace Records Data Model Connect Admin Guide Connect API Reference  </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/50_fifth_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/50_fifth_section/2_page.html</guid>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/60_sixth_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/60_sixth_section/2_page.html</guid>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/70_seventh_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/70_seventh_section/2_page.html</guid>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/80_eighth_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/80_eighth_section/2_page.html</guid>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+    </item>
+    
+    <item>
+      <title>Additional Resources for Integrated Services</title>
+      <link>/10_first_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10_first_section/2_page.html</guid>
+      <description>AWS Lambda Foundations Amazon DynamoDB Service Primer </description>
+    </item>
+    
+  </channel>
+</rss>

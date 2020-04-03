@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on Amazon Connect SI Onboarding Workshop</title>
+    <link>/10_first_section.html</link>
+    <description>Recent content in Getting Started on Amazon Connect SI Onboarding Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/10_first_section/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Primer on Amazon Connect</title>
+      <link>/10_first_section/1_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10_first_section/1_page.html</guid>
+      <description>Access for this course requires logging into the APN Partner Central. The completion of this course will be associated with your APN credentials.
+ Course Objectives  Configure a cloud-based contact center using Amazon Connect. Identify architectural components of the caller version Launch an Amazon Connect instance. Design an interactive voice response (IVR) system using the graphical editor within Amazon Connect. Integrate Amazon Connect with different AWS services including AWS IAM, AWS Lambda, Amazon DynamoDB, and Amazon Lex.</description>
+    </item>
+    
+    <item>
+      <title>Additional Resources for Integrated Services</title>
+      <link>/10_first_section/2_page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/10_first_section/2_page.html</guid>
+      <description>AWS Lambda Foundations Amazon DynamoDB Service Primer </description>
+    </item>
+    
+  </channel>
+</rss>

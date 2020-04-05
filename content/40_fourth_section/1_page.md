@@ -22,4 +22,7 @@ Source => Stream Ingestion => Storage => Stream Processing => Destination
 
 
 ## Training
-[Advanced Reporting]( http://psa-workshop-rept.s3-website-us-west-2.amazonaws.com)
+
+Online Training: [Advanced Reporting]( http://psa-workshop-rept.s3-website-us-west-2.amazonaws.com)
+
+PDF of Online Course: [Advanced Reporting PDF](https://psa-workshop-cccp.s3-us-west-2.amazonaws.com/building-a-custom-call-control-panel-VP5kZ6Pl.pdf)

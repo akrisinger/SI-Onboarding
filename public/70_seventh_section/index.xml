@@ -16,8 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/70_seventh_section/1_page.html</guid>
-      <description>Use Case There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.
-Integrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  Training Emergency and Holiday Routing with Dynamic Messaging</description>
+      <description>Use Case Often, the out-of-the-box CCP will not meet the requirements of your customer.
+Integrated Services  Amazon Connect CloudFormation Lambda  GitHub Resources Amazon Connect Streams
+Training Online Training: Build a Custom CCP
+PDF of Online Course: Build a Custom CCP PDF</description>
     </item>
     
     <item>
@@ -26,7 +28,7 @@ Integrated Services  Amazon Connect CloudFormation DynamoDB Lambda CloudWatch  T
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/70_seventh_section/2_page.html</guid>
-      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  Connect Case Studies  Intuit Axial Health Care Capital One  </description>
+      <description>Documentation  Connect Admin Guide Connect API Reference SDK &amp;amp; Developer Tools Lambda Documentation DynamoDB Documentation Quotas Reference Architectures  </description>
     </item>
     
   </channel>

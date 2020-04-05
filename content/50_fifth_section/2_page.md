@@ -14,8 +14,8 @@ weight = 1
 + [Quotas](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
 + [Reference Architectures](https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc)
 
-## Connect Case Studies
+## Relevant Blogs
 
-+ [Intuit](https://aws.amazon.com/solutions/case-studies/intuit-contact-center-case-study/?did=cr_card&trk=cr_card)
-+ [Axial Health Care](https://aws.amazon.com/solutions/case-studies/axialhealth-care/?did=cr_card&trk=cr_card)
-+ [Capital One](https://aws.amazon.com/solutions/case-studies/capital-one-amazon-connect/?did=cr_card&trk=cr_card)
++ [Updating your addresses with Amazon Connect and Amazon Lex](https://aws.amazon.com/blogs/contact-center/updating-your-addresses-with-amazon-connect-and-amazon-lex/)
++ [Integrating WhatsApp using Amazon Lex and Amazon Connect](https://aws.amazon.com/blogs/contact-center/integrating-whatsapp-as-a-channel-for-an-amazon-connect-contact-center/)
++ [Using Amazon Connect and Amazon Lex to build a Web Chat](https://aws.amazon.com/blogs/contact-center/reaching-more-customers-with-web-and-mobile-chat-on-amazon-connect/)

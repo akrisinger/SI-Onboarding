@@ -17,4 +17,8 @@ There are several scenarios in which your Contact Center Operations team will ne
 
 
 ## Training
-[Emergency and Holiday Routing with Dynamic Messaging](https://psa-workshop-emer.s3-us-west-2.amazonaws.com/index.html)
+
+Online Training:  [Emergency and Holiday Routing with Dynamic Messaging](https://psa-workshop-emer.s3-us-west-2.amazonaws.com/index.html)
+
+PDF of Online Course: [Emergency and Holiday Routing with Dynamic Messaging PDF](https://psa-workshop-emer.s3-us-west-2.amazonaws.com/emergency-and-holiday-routing-with-dynamic-messaging-Sh5zBmiX.pdf)
+ 

@@ -27,4 +27,6 @@ This training module uses a CloudFormation template to facilitate the chat widge
 
 
 ## Training
-[Deploying Amazon Connect Chat](https://psa-workshop-chat.s3-us-west-2.amazonaws.com/index.html)
+Online Training:  [Deploying Amazon Connect Chat](https://psa-workshop-chat.s3-us-west-2.amazonaws.com/index.html)
+
+PDF of Online Course:  [Deploying Amazon Connect Chat](https://psa-workshop-cccp.s3-us-west-2.amazonaws.com/building-a-custom-call-control-panel-VP5kZ6Pl.pdf)

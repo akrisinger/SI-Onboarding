@@ -5,16 +5,12 @@ weight = 1
 +++
 
 ## Use Case
-There are several scenarios in which your Contact Center Operations team will need to change the messaging within their IVR or change how routing is handled. For example, if there is a hurricane that requires a contact center to close, both the messaging and the hours of operation will need to be adjusted.
+As trusted partners in the AWS Partner Network, we rely on you to deliver the same level of customer obsession that we practice. To that end, there are best practices that team of Amazon Connect Solution Architects have written to help you exceed your customer's expectations.
 
-
-## Integrated Services
-+ [Amazon Connect](https://aws.amazon.com/connect/)
-+ [CloudFormation](https://aws.amazon.com/cloudformation/)
-+ [DynamoDB](https://aws.amazon.com/dynamodb/)
-+ [Lambda](https://aws.amazon.com/lambda/)
-+ [CloudWatch](https://aws.amazon.com/cloudwatch/)
 
 
 ## Training
-[Emergency and Holiday Routing with Dynamic Messaging](https://psa-workshop-emer.s3-us-west-2.amazonaws.com/index.html)
+
+Online Training:  [Amazon Connect Best Practices](https://psa-workshop-best.s3-us-west-2.amazonaws.com/index.html)
+
+PDF of Online Course:  [Amazon Connect Best Practices PDF](https://psa-workshop-best.s3-us-west-2.amazonaws.com/best-practices-for-amazon-connect-w5YXebkU.pdf)

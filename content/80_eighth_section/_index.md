@@ -4,6 +4,6 @@ chapter = true
 weight = 80
 +++
 
-### Emergency & Holiday Routing with Dynamic Messaging
+### Amazon Connect Best Practices
 
 {{% children showhidden="true" %}}

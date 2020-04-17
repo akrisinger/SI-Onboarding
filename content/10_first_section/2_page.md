@@ -4,5 +4,5 @@ chapter = false
 weight = 10
 +++
 
-#### [AWS Lambda Foundations](https://kiku.aws.training/Details/eLearning?id=27197)
-#### [Amazon DynamoDB Service Primer](https://kiku.aws.training/Details/eLearning?id=36858)
+#### [AWS Lambda Resources](https://aws.amazon.com/lambda/resources/)
+#### [AWS Dynamo DB Resources](https://aws.amazon.com/dynamodb/resources/)

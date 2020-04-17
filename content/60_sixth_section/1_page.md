@@ -20,4 +20,4 @@ As a Solutions Implementor, our role is not only to build innovative customer se
 
 Online Training:  [Troubleshooting with CloudWatch](https://psa-workshop-trbl.s3-us-west-2.amazonaws.com/index.html)
 
-PDF of Online Course:  [Troubleshooting with CloudWatch PDF](https://psa-workshop-cccp.s3-us-west-2.amazonaws.com/building-a-custom-call-control-panel-VP5kZ6Pl.pdf)
+PDF of Online Course:  [Troubleshooting with CloudWatch PDF](https://psa-workshop-trbl.s3-us-west-2.amazonaws.com/troubleshooting-with-cloud-watch-meZARm7K.pdf)
